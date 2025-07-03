@@ -1,2 +1,2 @@
 # TBIA_Duck
-This repository contains a comprehensive analysis of the distribution patterns of duck populations in Taiwan. Leveraging geospatial data and statistical modeling, this project aims to identify key factors influencing duck distribution and provide insights for ecological research and wildlife management.
+This repository delivers a professional geospatial analysis of duck distribution patterns across Taiwan, leveraging occurrence data from the Taiwan Biodiversity Information Alliance (TBIA) portal (tbiadata.tw). Using advanced statistical modeling and mapping techniques, the study elucidates key environmental drivers of duck presence and supports informed ecological monitoring and conservation efforts.
